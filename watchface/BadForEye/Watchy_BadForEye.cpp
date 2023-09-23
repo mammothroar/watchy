@@ -1,4 +1,4 @@
-#include "Watchy_BadforEye.h"
+#include "Watchy_BadForEye.h"
 
 const unsigned char *numbers [10] = {numbers0, numbers1, numbers2, numbers3, numbers4, numbers5, numbers6, numbers7, numbers8, numbers9};
 
